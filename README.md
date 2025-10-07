@@ -20,8 +20,9 @@ It uses PlatformIO within Visual Studio Code.
 - **PlatformIO Home**: 3.4.4
 
 ## Usage
+Follow instructions in: [How does PlatformIO Project Work?](https://seanshnkim.github.io/blog/2025/PlatformIO-What-it-does/)
 
-Build and flash the project using PlatformIO. Upon successful upload, boot the board: a message should be printed to the LCD screen.
+Build and flash the project using PlatformIO. After successful upload, messages should be printed to the LCD screen.
 
 ![Print Result](img/print_text_on_LCD.jpeg)
 
@@ -31,7 +32,7 @@ Build and flash the project using PlatformIO. Upon successful upload, boot the b
 - What does `SysTick_Handler()` specifically have to do with printing text on the LCD?
 - What roles do these files play, and how are they related to exception and interrupt handling?
 
-For concise answers and a detailed technical explanation, [refer to this blog post](https://yourbloglink.com).
+For answers, please refer to [Why does it display white screen after removing SysTick_Handler?](https://seanshnkim.github.io/blog/2025/2025-10-06-SysTick_Handler/).
 
 ## License
 This project is licensed under the MIT License.
