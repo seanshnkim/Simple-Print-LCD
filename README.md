@@ -32,7 +32,8 @@ Build and flash the project using PlatformIO. After successful upload, messages 
 - What does `SysTick_Handler()` specifically have to do with printing text on the LCD?
 - What roles do these files play, and how are they related to exception and interrupt handling?
 
-For answers, please refer to [Why does it display white screen after removing SysTick_Handler?](https://seanshnkim.github.io/blog/2025/2025-10-06-SysTick_Handler/).
+For answers, please refer to [Why does it display white screen after removing SysTick_Handler?](https://seanshnkim.github.io/blog/2025/SysTick_Handler/)
+
 
 ## License
 This project is licensed under the MIT License.
